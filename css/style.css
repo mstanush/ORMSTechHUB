@@ -478,7 +478,9 @@ button {
     width: 100%;
     float: left;
     padding-bottom: 90px;
-    background-color: #103f74;
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #06b1b4;
 }
 
 .about_taital_main {
@@ -495,7 +497,7 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #ffffff;
+    color: #012782;
     font-weight: bold;
     padding-top: 30px;
     text-align: center;
@@ -510,7 +512,7 @@ button {
     width: 100%;
     float: center;
     font-size: 16px;
-    color: #1f1f1f;
+    color: #ffffff;
     margin: 50px;
     padding-top: 50px;
 }
@@ -542,8 +544,8 @@ button {
 }
 
 .about_img {
-    width: 100%;
-    float: left;
+    width: 90%;
+    float: right;
 }
 
 
@@ -626,7 +628,9 @@ button {
 
 .margin_top_90{
     margin-top: 90px;
+
 }
+
 /* blog section end */
 
 
@@ -846,12 +850,13 @@ button {
     width: 100%;
     float: left;
     padding-bottom: 90px;
+    background-color: #b80068;
 }
 .contact_taital {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #363636;
+    color: #ffffff;
     text-align: center;
     font-weight: bold;
 }
@@ -909,7 +914,7 @@ button {
 .footer_section {
     width: 100%;
     float: left;
-    background-image: url(../images/footer-bg.png);
+    background-image: url(../images/bluefooter.png);
     height: auto;
     padding-top: 250px;
     background-size: 100% 100%;
